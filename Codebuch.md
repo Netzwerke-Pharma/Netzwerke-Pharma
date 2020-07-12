@@ -42,7 +42,7 @@ status
 NODE-Attribute
 
 id
-Identische ID wie aus der edgelist zur Identifikation der Knoten. 
+(identische ID wie aus der Edgelist zur Identifikation der Knoten)
 
 sex
 (Geschlecht)
