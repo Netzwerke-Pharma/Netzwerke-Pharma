@@ -1,4 +1,4 @@
-Codebuch Stand 2020-07-11
+Codebuch Stand 2020-07-12
 erstellt von Jasmin Maya, Nora Schwarz, Verena Nagel, Julian Hammerstein, Samuel Müller, Janina Hofmann
 (jm133@hdm-stuttgart.de, ns136@hdm-stuttgart.de, vn009@hdm-stuttgart.de, jh229@hdm-stuttgart.de, sm222@hdm-stuttgart.de, jh231@hdm-stuttgart.de)
 
