@@ -33,7 +33,7 @@ relation
 2 = Nebenamt
 3 = Ehrenamt
 
-Status
+status
 (aktiv)
 1 = Ja
 2 = Nein
