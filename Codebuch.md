@@ -45,6 +45,7 @@ id
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
 
 sex
+(Geschlecht)
 1 = weiblich
 2 = männlich
 3 = divers
