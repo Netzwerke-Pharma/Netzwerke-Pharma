@@ -107,4 +107,3 @@ status
 (aktuelles Mandat für den Bundestag)
 1 = Ja 
 2 = Nein
-
