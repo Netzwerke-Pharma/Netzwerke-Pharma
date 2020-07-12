@@ -10,6 +10,10 @@ Inhalt
 
 Ursprung und Datenerhebung
 
+Im Interesse der Forschung stehen die vergangenen und aktuellen Nebentätigkeiten und Berufe der Mitglieder des Bundesgesundheitsministeriums. Hierbei soll herausgefunden werden, ob die jeweiligen Nebentätigkeiten ebenfalls in der Gesundheits- oder gar Pharmabranche angesiedelt sind.
+
+Durch Mitgliedschaften in bestimmten Institutionen, Organisationen, Ausschüssen oder Vereinen können reziproke Verbindungen entstehen, weshalb es sich um ein ungerichtetes Netzwerk handelt. Anhand der Dauer der Nebentätigkeit könnte die Gewichtung der Kanten ebenfalls miteinbezogen werden. Untersucht werden die letzten vier Legislaturperioden (16.-19. Wahlperiode, 2005-2021).
+
 Die Daten werden über Transparency International Deutschland e.V., correctiv.org, Bundestag.de und Abgeordnetenwatch erhoben.
 
 Das Netzwerk ist ein ungerichtetes two-mode Netzwerk. Untersucht wird generell ein Gesamtnetzwerk. 
@@ -18,7 +22,7 @@ Das Netzwerk ist ein ungerichtetes two-mode Netzwerk. Untersucht wird generell e
 EDGE-Attribute
 
 id
-(jede ID entspricht einer Institution oder einem Mitglied des Gesundheitsausschusses)
+(jede ID entspricht einer Institution oder einem Mitglied des Gesundheitsministeriums)
 
 time
 (Zeitraum der Nebentätigkeit)
