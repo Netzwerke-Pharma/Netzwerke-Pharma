@@ -20,10 +20,10 @@ id
 
 time
 (Zeitraum der Nebentätigkeit)
-1 = 2005-2009
-2 = 2009-2013
-3 = 2013-2017
-4 = 2017-2021
+1 = 2005-2009 
+2 = 2009-2013 
+3 = 2013-2017 
+4 = 2017-2021 
 
 relation 
 (Art der Beziehung zu einer Organisation)
