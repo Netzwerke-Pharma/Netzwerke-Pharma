@@ -24,6 +24,14 @@ EDGE-Attribute
 id
 (jede ID entspricht einer Institution oder einem Mitglied des Gesundheitsministeriums)
 
+duration
+(Dauer der Tätigkeit)
+1 = 0-3 Jahre
+2 = 3-6 Jahre
+3 = 6-9 Jahre
+4 = 9-12 Jahre
+5 = 12-15 Jahre 
+
 time
 (Zeitraum der Nebentätigkeit)
 1 = 2005-2009 
@@ -88,14 +96,6 @@ state
 14 = Sachsen-Anhalt
 15 = Schleswig-Holstein
 16 = Thüringen
-
-duration
-(Dauer der Tätigkeit)
-1 = 0-3 Jahre
-2 = 3-6 Jahre
-3 = 6-9 Jahre
-4 = 9-12 Jahre
-5 = 12-15 Jahre
 
 party
 (Fraktionszugehörigkeit der Mitglieder)
