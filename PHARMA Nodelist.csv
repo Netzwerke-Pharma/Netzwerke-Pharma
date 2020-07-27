@@ -1,0 +1,44 @@
+id,label,sex,type,healthsector,period,age,state,party,background,function,education
+spahn,Jens Spahn,2,1,99,4,3,10,1,1,1,5
+weiss,Sabine Weiss,1,1,99,4,6,10,1,2,2,8
+steffen,Thomas Steffen,2,1,99,4,4,11,1,2,2,9
+ludwig,Daniela Ludwig,1,1,99,4,3,2,1,2,3,8
+gebhart,Thomas Gebhart,2,1,99,4,3,11,1,1,2,9
+westerfellhaus,Andreas Westerfellhaus,2,1,99,4,4,10,1,1,4,5
+schmidtke,Claudia Schmidtke,1,1,99,4,4,15,1,1,4,9
+bmwi,Bundesministerium für Wirtschaft,99,4,2,99,99,99,99,99,99,99
+bmf,Bundesministerium für Finanzen,99,4,2,99,99,99,99,99,99,99
+bafin,Bundes­­anstalt für Finanz­dienst­leistungsaufsicht,99,4,2,99,99,99,99,99,99,99
+bmg,Bundesgesundheitsministerium,99,4,1,99,99,99,99,99,99,99
+deutscherpflegerat,Deutscher Pflegerat,99,3,1,99,99,99,99,99,99,99
+zab,ZAB – Zentrale Akademie für Berufe im Gesundheitswesen GmbH,99,2,1,99,99,99,99,99,99,99
+westfealischenklinik,Westfälischen Klinik,99,2,1,99,99,99,99,99,99,99
+basf,BASF,99,2,1,99,99,99,99,99,99,99
+europauniondeutschland ,Europa-Union Deutschland e.V.,99,3,2,99,99,99,99,99,99,99
+fortschrittrosenheim,FortSchritt Rosenheim e.V.,99,3,2,99,99,99,99,99,99,99
+petoekindergartenrosenheim,Petö-Kindergarten Rosenheim,99,3,2,99,99,99,99,99,99,99
+foerdervereinkinderklinikrosenheim,Förderverein Kinderklinik Rosenheim,99,3,1,99,99,99,99,99,99,99
+bkf,Bundesverband konduktive Förderung nach Petö,99,3,1,99,99,99,99,99,99,99
+pflegestiftungmeltl,Pflegestiftung Meltl,99,5,1,99,99,99,99,99,99,99
+donumvitaerosenheim,Donum Vitae Rosenheim,99,3,2,99,99,99,99,99,99,99
+bayerischesroteskreuz,"Bayerisches Rotes Kreuz, Kreisverband Rosenheim",99,3,1,99,99,99,99,99,99,99
+pangasinan,Verein Pangasinan e.V.,99,3,2,99,99,99,99,99,99,99
+bundesstiftungbaukultur,Bundesstiftung Baukultur,99,5,2,99,99,99,99,99,99,99
+eacts,European Association of Cardio Thoracic Surgery (EACTS),99,3,1,99,99,99,99,99,99,99
+dgthg,"Deutsche Gesellschaft für Thorax-, Herz- und Gefäßchirugie (DGTHG)",99,3,1,99,99,99,99,99,99,99
+dgesgm,Deutsche Gesellschaft für geschlechtsspezifische Medizin e.V. (DGesGM),99,3,1,99,99,99,99,99,99,99
+segebergerkliniken ,Ärztin Segeberger Kliniken GmbH,99,2,1,99,99,99,99,99,99,99
+muk,Lübecker Musik- und Kongresshallen GmbH (MUK),99,2,2,99,99,99,99,99,99,99
+dfk,Stiftung Deutsches Forum für Kriminalprävention (DFK),99,5,2,99,99,99,99,99,99,99
+dbu,Deutsche Bundesstiftung Umwelt (DBU),99,5,2,99,99,99,99,99,99,99
+jga,Jugend gegen AIDS e.V.,99,3,1,99,99,99,99,99,99,99
+kulturstiftungdesbundes,Kulturstiftung des Bundes,99,5,2,99,99,99,99,99,99,99
+stiftunghumanitaerehilfe,Stiftung „Humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen“,99,5,1,99,99,99,99,99,99,99
+pareton,Pareton GmbH,99,2,2,99,99,99,99,99,99,99
+politas,Politas,99,2,1,99,99,99,99,99,99,99
+sparkassewestmuensterland,Sparkasse Westmünsterland,99,2,2,99,99,99,99,99,99,99
+comline,Comline AG,99,2,2,99,99,99,99,99,99,99
+dkg,Deutsche Krankenhausgesellschaft e.V. (DKG),99,3,1,99,99,99,99,99,99,99
+medapharma,MEDA Pharma GmbH & Co. KG,99,2,1,99,99,99,99,99,99,99
+facetoface,face to face GmbH,99,2,1,99,99,99,99,99,99,99
+unikreditbank,UniCredit Bank,99,2,2,99,99,99,99,99,99,99
