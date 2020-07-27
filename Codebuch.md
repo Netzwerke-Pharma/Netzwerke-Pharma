@@ -24,37 +24,41 @@ EDGE-Attribute
 id
 (jede ID entspricht einer Institution oder einem Mitglied des Gesundheitsministeriums)
 
+relation 
+(Art der Beziehung zu einer Institution)
+1 = Hauptamt
+2 = Nebenamt
+3 = Ehrenamt
+4 = Mitgliedschaften
+5 = einmalige entgeldliche Tätigkeiten
+6 = Sonstiges
+
 duration
 (Dauer der Tätigkeit)
 1 = 0-3 Jahre
 2 = 3-6 Jahre
 3 = 6-9 Jahre
 4 = 9-12 Jahre
-5 = 12-15 Jahre 
+5 = 12-15 Jahre
+6 = mehr als 15 Jahre
 
-time
-(Zeitraum der Nebentätigkeit)
-1 = 2005-2009 
-2 = 2009-2013 
-3 = 2013-2017 
-4 = 2017-2021 
-
-relation 
-(Art der Beziehung zu einer Organisation)
-1 = Hauptamt
-2 = Nebenamt
-3 = Ehrenamt
-
-status
+status 
 (aktiv)
 1 = Ja
 2 = Nein
 
+health
+(Tätigkeit im Gesundheitssektor)
+1 = Ja
+2 = Nein
 
 NODE-Attribute
 
 id
 (identische ID wie aus der Edgelist zur Identifikation der Knoten)
+
+label
+(vollständige Bezeichnung der Knoten)
 
 sex
 (Geschlecht)
@@ -63,9 +67,19 @@ sex
 3 = divers
 
 type
-(Person oder Organisation)
+(Person oder Institution)
 1 = Person
-2 = Organisation
+2 = Unternehmen
+3 = Verein/Organisation
+4 = politische Institution
+5 = Stiftung
+
+period
+(Wahlperiode)
+1 = 2005-2009
+2 = 2009-2013
+3 = 2013-2017
+4 = 2017-2021
 
 age
 (Alter der Mitglieder)
@@ -77,6 +91,31 @@ age
 6 = 70-80 Jahre
 7 = 80-90 Jahre
 8 = tot
+
+education
+(höchster Bildungsabschluss)
+1 = Hauptschulabschluss
+2 = Mittlere Reife
+3 = Fachhochschulreife
+4 = Abitur
+5 = Berufsausbildung
+6 = Bachelor
+7 = Master
+8 = Staatsexamen
+9 = Promotion
+
+background
+(Tätigkeiten im Gesundheitssektor)
+1 = Ja
+2 = Nein
+
+party
+(Fraktionszugehörigkeit der Mitglieder)
+1 = CDU/CSU
+2 = SPD
+3 = DIE LINKE
+4 = DIE GRÜNEN
+5 = FDP
 
 state
 (Verortung nach Bundesländern)
@@ -97,20 +136,14 @@ state
 15 = Schleswig-Holstein
 16 = Thüringen
 
-party
-(Fraktionszugehörigkeit der Mitglieder)
-1 = CDU/CSU
-2 = SPD
-3 = DIE LINKE
-4 = DIE GRÜNEN
-5 = FDP
+function
+(Funktion im Bundesgesundheitsministerium)
+1 = Bundesgesundheitsminister
+2 = Staatssekretär
+3 = Drogenbeauftragte
+4 = Sonstige
 
-background
-(Tätigkeiten im Pharmabereich)
+health sector
+(Institution im Gesundheitssektor)
 1 = Ja
-2 = Nein
-
-status
-(aktuelles Mandat für den Bundestag)
-1 = Ja 
 2 = Nein
